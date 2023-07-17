@@ -16,8 +16,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -29,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](.public/design/desktop-preview.jpg)
+![](./public/design/desktop-preview.jpg)
 
 
 ### Links
@@ -48,7 +46,7 @@ Users should be able to:
 
 ## Author
 
-- [Carlos Leite] - (https://github.com/CarlosHLeite)
+- Carlos Leite - [Github](https://github.com/CarlosHLeite)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@CarlosL60387124](https://twitter.com/CarlosL60387124)
 
